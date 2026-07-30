@@ -1,8 +1,9 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Forzamos que los colores base de la página sean los de la marca */
+  --background: #F2E8DC; /* El crema suave para el fondo general */
+  --foreground: #4D2C1A; /* El marrón muy oscuro para el texto principal */
 }
 
 @theme inline {
@@ -10,17 +11,20 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Agregamos el resto de los colores del logo para usarlos como clases de Tailwind */
+  --color-muebles-fondo: #4D2C1A;      /* Marrón oscuro de fondo del logo */
+  --color-muebles-madera: #8C5635;     /* Marrón medio (estructura) */
+  --color-muebles-oro: #C69C6D;        /* Dorado mate de las letras */
+  --color-muebles-oro-oscuro: #A67C52; /* Tono más oscuro para efectos hover */
+  --color-muebles-crema: #F2E8DC;      /* Crema suave */
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
 }
