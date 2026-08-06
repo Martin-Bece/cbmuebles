@@ -17,7 +17,7 @@ export default function Contacto() {
     setEnviando(true);
     setEstadoEnvio(null);
 
-    const FORMSPREE_ENDPOINT = "https://formspree.io/f/xeajoglv";
+    const FORMSPREE_ENDPOINT = "https://formspree.io/f/xzepzrkk";
 
     try {
       const respuesta = await fetch(FORMSPREE_ENDPOINT, {
