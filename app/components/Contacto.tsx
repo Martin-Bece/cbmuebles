@@ -69,7 +69,7 @@ export default function Contacto() {
           
           {/* Tarjeta 1: WhatsApp */}
           <a 
-            href="https://wa.me/5492664304069?text=Hola%20CB%20Muebles!%20Quería%20consultar%20por%20un%20mueble%20personalizado."
+            href="https://wa.me/5492664342025?text=Hola%20CB%20Muebles!%20Quería%20consultar%20por%20un%20mueble%20personalizado."
             target="_blank"
             rel="noopener noreferrer"
             className="block md:table-cell bg-stone-900/50 border border-muebles-madera/20 rounded-2xl p-8 text-center transition-all transform hover:scale-102 hover:border-muebles-oro/40 group"
@@ -80,7 +80,7 @@ export default function Contacto() {
               </svg>
             </div>
             <h3 className="font-bold text-xl text-muebles-oro mb-1">WhatsApp</h3>
-            <p className="text-sm text-muebles-crema/80 font-mono tracking-wide">+54 9 2664 30-4069</p>
+            <p className="text-sm text-muebles-crema/80 font-mono tracking-wide">+54 9 2664 34-2025</p>
           </a>
 
           <a 

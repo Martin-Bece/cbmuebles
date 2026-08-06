@@ -3,50 +3,64 @@
     "id": 1,
     "titulo": "Recibidor Montaña",
     "categoria": "Recibidor",
-    "descripcion": "Madera de Eucalipto, incluye dibujo.",
+    "descripcion": "Recibidor fabricado en madera de eucalipto, con grabado de montaña y un diseño cálido y funcional.",
     "imagen": "/images/recibidor_montaña.jpeg"
   },
   {
     "id": 2,
     "titulo": "Mesa familiar",
     "categoria": "Mesa",
-    "descripcion": "Mesa de Eucalipto, multiambiente, ideal para reuniones familiares.",
+    "descripcion": "Mesa de eucalipto de gran resistencia, ideal para compartir reuniones familiares y adaptarse a distintos ambientes.",
     "imagen": "/images/mesa.jpeg"
   },
   {
     "id": 3,
     "titulo": "Postigon con Moño",
     "categoria": "Aperturas",
-    "descripcion": "Postigon de Eucalipto, con finalizacion en forma de moño para garantizar firmeza.",
+    "descripcion": "Postigón de eucalipto con terminación tipo moño, diseñado para brindar mayor firmeza y un acabado elegante.",
     "imagen": "/images/postigon.jpeg"
   },
   {
     "id": 4,
     "titulo": "Recibidor Simple",
     "categoria": "Recibidor",
-    "descripcion": "Recibidor de Eucalipto, con diseño simple y elegante.",
-    "imagen": "/images/recibidor_comun.jpeg"
+    "descripcion": "Recibidor de eucalipto con líneas simples y un diseño moderno que combina con cualquier espacio.",
+    "imagen": "/images/recibidor_comun.jpg"
   },
   {
     "id": 5,
     "titulo": "Banqueta en forma de Z",
     "categoria": "Sillas",
-    "descripcion": "Banqueta de Eucalipto, con diseño en forma de Z.",
+    "descripcion": "Banqueta de eucalipto con diseño en forma de Z, que combina estilo contemporáneo y estabilidad.",
     "imagen": "/images/banqueta_Z.png"
   },
   {
     "id": 6,
     "titulo": "Cartel Personalizado",
     "categoria": "Carteles",
-    "descripcion": "Cartel Perzonalizado de Eucalipto, con diseño a gusto del cliente.",
+    "descripcion": "Cartel de eucalipto totalmente personalizado, elaborado según el diseño y las preferencias del cliente.",
     "imagen": "/images/cartel.jpg"
   },
   {
     "id": 7,
     "titulo": "Banqueta con apoya pies",
     "categoria": "Sillas",
-    "descripcion": "Banqueta de Eucalipto, con apoya pies para mayor comodidad.",
+    "descripcion": "Banqueta de eucalipto con apoyapiés integrado, pensada para ofrecer mayor comodidad y durabilidad.",
     "imagen": "/images/banqueta_apoya_pies.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Recibidor Montaña sin Apoyos",
+    "categoria": "Recibidor",
+    "descripcion": "Recibidor de eucalipto con grabado de montaña y un diseño limpio, sin apoyos adicionales.",
+    "imagen": "/images/recibidor_montaña_2.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Reloj de Pared",
+    "categoria": "Relojes",
+    "descripcion": "Reloj de pared fabricado en madera de eucalipto, con un diseño elegante que realza cualquier ambiente.",
+    "imagen": "/images/reloj.png"
   }
 
 ]
